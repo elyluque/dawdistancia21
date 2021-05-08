@@ -5,7 +5,6 @@
  * @param int $parametro1 Esta es la descripción del parametro 1
  * @param int $parametro2 Esta es la descripción del parametro 2
  * @return int Esta es la descripción del parametro que devuelve la función
- *
  * @author Elisabeth Luque de la Rosa < elyluque@gmail.com>
  * @version string 1.0.1
  */
